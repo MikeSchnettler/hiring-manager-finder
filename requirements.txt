@@ -1,0 +1,8 @@
+streamlit
+google-generativeai
+requests
+beautifulsoup4
+pandas
+st-gsheets-connection
+st_paywall
+hmac
