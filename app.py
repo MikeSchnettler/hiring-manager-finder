@@ -3,7 +3,6 @@ import google.generativeai as genai
 import requests
 import json
 from bs4 import BeautifulSoup
-from st_paywall import add_auth
 
 st.set_page_config(page_title="Hiring Manager Finder", page_icon="🔍")
 
